@@ -1,0 +1,15 @@
+=== Sesi Chat: 2026-06-11 02:20:51 ===
+
+Pelanggan: harga es berapa?
+Bot: Harga es di Warung Makan Ghazi ada dua jenis, yaitu:
+- Es Teh: Rp 5.000
+- Es Jeruk: Rp 7.000
+
+Pelanggan: es batu?
+Bot: Maaf, informasi tentang Es Batu tidak tersedia.
+
+Pelanggan: baik terimakasih
+Bot: Senang bisa membantu. Jika butuh informasi lagi, jangan ragu untuk bertanya. Selamat hari ini!
+
+=== Chat selesai ===
+
